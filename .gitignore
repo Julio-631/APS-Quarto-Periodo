@@ -1,0 +1,18 @@
+# Logs do script de configuração
+*.log
+
+# Arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Pastas/arquivos de editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*~
