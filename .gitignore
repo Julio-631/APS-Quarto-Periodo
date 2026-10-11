@@ -16,3 +16,24 @@ $RECYCLE.BIN/
 # Arquivos temporários
 *.tmp
 *~
+
+# Artefatos de compilação Java
+out/
+bin/
+*.class
+
+# Arquivo de resultados gerado em tempo de execução
+resultados.csv
+
+# Dependências baixadas pelo run-tests.ps1 (não versionar binários de terceiros)
+lib/
+lib/*.jar
+*.jar.part
+
+# Saídas de compilação/relatórios dos testes (gerados pelo run-tests.ps1)
+out/classes/
+out/test-classes/
+out/test-reports/
+
+# Artefatos internos do agente/workflow
+.agents/
