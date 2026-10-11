@@ -57,7 +57,6 @@ Entradas inválidas (texto onde se espera número, `N` negativo ou grande demais
 - `dados_entrada/` — arquivo CSV de exemplo para a opção 3.
 - `docs/TESTES.md` — documentação da suíte de testes e dos erros corrigidos.
 - `run-tests.ps1` — compila e executa os testes.
-- `setup-git-github/` — script e guia para instalar e configurar o Git e o GitHub no Windows.
 
 ## Testes
 
